@@ -121,6 +121,9 @@ ZWM uses **binary space partitioning tree** ([BSP-tree](https://en.wikipedia.org
 <p align="left">
   <img src="https://github.com/Yazeed1s/zwm/blob/main/docs/img/img3.png" width="1000">
 </p>
+<p align="left">
+  <img src="https://github.com/Yazeed1s/zwm/blob/main/docs/img/img4.png" width="1000">
+</p>
 
 ## Installation
 
